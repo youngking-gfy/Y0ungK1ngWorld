@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "78121fb91cfca15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f97440a1612556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8a953d5a27ce46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/ncsec/1.公专/若冰上课笔记/13. 第十二节.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. 第十二节"
+            }
+          },
+          {
+            "id": "c5d79f7489e84805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/ncsec/2.申论/刷题/打卡内容/2.五月.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.五月"
+            }
+          },
+          {
+            "id": "e7406537cbe9c9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/ncsec/2.申论/刷题/打卡内容/2.五月.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.五月"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86e28192204437ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "963ddec83e6af38f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f30f28bc0c173593",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f1eab853fd474d6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ad3645b00171c7dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "470af1c36a01937f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d8e3ee2cdfd01e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "945c4d60c4861581",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/notes/ncsec/1.公专/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "1a1ea9d87e6c6aef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/notes/ncsec/1.公专/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "4ceb3c31119acfa8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6adf62a1978260e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/notes/ncsec/2.申论/刷题/打卡内容/2.五月.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2.五月 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c5d79f7489e84805",
+  "lastOpenFiles": [
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/3.六月.md",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/4.七月.md",
+    "docs/notes/ncsec/2.申论/刷题/README.md",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/2.五月.md",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/2.五月/file-20250710155713199.png",
+    "docs/notes/ncsec/2.申论/素材整理/2.积累2.md",
+    "docs/notes/ncsec/2.申论/素材整理/1.积累1.md",
+    "docs/notes/ncsec/2.申论/梳理/2. 概括题作答.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/12. 第十一节下.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/13. 第十二节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/13. 第十二节/file-20250710144213233.png",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/13. 第十二节/file-20250710143718554.png",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/13. 第十二节",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/README.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/11. 第十一节上.md",
+    "docs/notes/ncsec/2.申论/梳理/README.md",
+    "docs/notes/ctfshow/1.信息收集/4. web16_20.md",
+    "docs/notes/ctfshow/1.信息收集/3. web11_15.md",
+    "docs/notes/ctfshow/1.信息收集/2. web6_10.md",
+    "docs/notes/ctfshow/1.信息收集/web16_20/file-20250310155932421.png",
+    "docs/notes/ctfshow/1.信息收集/web16_20/file-20250310160356319.png",
+    "docs/notes/ncsec/1.公专/README.md",
+    "docs.zip",
+    "docs/notes/ncsec/README.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/4. 第四节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/2. 第二节.md",
+    "docs/preview/计算机视觉押题卷.md",
+    "docs/preview/往年部分赛题复习巩固.pdf",
+    "docs/notes/paper/README.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/7. 第七节.md",
+    "docs/notes/menu/待办事项.md",
+    "docs/notes/paper/基于GRU模型的诈骗短信文本特征提取与分类方法.md",
+    "docs/preview/计算机视觉.md",
+    "docs/preview/数据挖掘考试重点.md",
+    "docs/preview/assets/数据挖掘考试重点/file-20250709163246266.png",
+    "docs/notes/paper/assets/基于GRU模型的诈骗短信文本特征提取与分类方法/file-20250709163018315.png",
+    "docs/notes/paper/assets/基于GRU模型的诈骗短信文本特征提取与分类方法",
+    "docs/notes/paper/assets"
+  ]
+}
