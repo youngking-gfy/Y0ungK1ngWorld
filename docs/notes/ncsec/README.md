@@ -3,6 +3,10 @@ title: 公考
 createTime: 2025/06/22 18:00:00
 permalink: /ncsec/
 ---
+<script setup> import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue' </script> 
+
+
+<RepoCard repo="youngking-gfy/Y0ungK1ngWorld" />
 
 # 专题讲解
 
