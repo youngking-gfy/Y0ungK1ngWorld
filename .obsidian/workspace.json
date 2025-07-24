@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/paper/基于GRU模型的诈骗短信文本特征提取与分类方法.md",
+                "file": "docs/notes/ncsec/1.公专/若冰上课笔记/3.办理刑事案件能力之程序法/25. 第二十五节.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于GRU模型的诈骗短信文本特征提取与分类方法"
+              "title": "25. 第二十五节"
             }
           },
           {
@@ -41,40 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/ncsec/1.公专/若冰上课笔记/18. 第十七节.md",
+                "file": "docs/notes/ncsec/1.公专/若冰上课笔记/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. 第十七节"
-            }
-          },
-          {
-            "id": "706a9263cd71e66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/notes/ncsec/2.申论/刷题/打卡内容/4.七月.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.七月"
-            }
-          },
-          {
-            "id": "9dfe8a5e607989b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "辨认",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/ncsec/2.申论/刷题/打卡内容/4.七月.md",
+                "file": "docs/notes/ncsec/1.公专/若冰上课笔记/3.办理刑事案件能力之程序法/25. 第二十五节.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.七月 的大纲"
+              "title": "25. 第二十五节 的大纲"
             }
           }
         ],
@@ -221,51 +197,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "706a9263cd71e66e",
+  "active": "3509d565ef9fc41d",
   "lastOpenFiles": [
-    "docs/notes/ncsec/1.公专/若冰上课笔记/18. 第十七节.md",
-    "docs/notes/paper/基于GRU模型的诈骗短信文本特征提取与分类方法.md",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/4.七月.md",
-    "docs/notes/ncsec/2.申论/梳理/6. 大作文.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/14. 第十三节.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/13. 第十二节.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/12. 第十一节下.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/15. 第十四节.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/16. 第十五节.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/17. 第十六节.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/18. 第十七节/file-20250715180356725.png",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/18. 第十七节",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/u.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/README.md",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/执行标的是指在执行程序中，法院为履行生效判决、仲裁裁决或其他有强制执行力的法律文件而针对债务人采取措施的对象.md",
-    "docs/preview/调研报告/调研报告.md",
-    "docs/preview/调研报告/警院调研报告.md",
-    "docs/preview/调研报告/诈骗短信种类收集调查方案.md",
-    "docs/preview/调研报告",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/2.五月.md",
-    "docs/notes/ncsec/2.申论/素材整理/2.积累2.md",
-    "docs/notes/ncsec/3.行测/111.js",
-    "docs/notes/ncsec/2.申论/README.md",
-    "docs/notes/ncsec/2.申论/梳理/README.md",
-    "docs/notes/ncsec/2.申论/素材整理/README.md",
-    "docs/notes/ncsec/2.申论/刷题/README.md",
-    "docs/notes/ncsec/README.md",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/3.六月.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/3.办理刑事案件能力之程序法/24. 第二十四节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/3.办理刑事案件能力之程序法/25. 第二十五节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/2.办理行政案件能力之实体法/23. 第二十二节-第二十三节, 第五十节-第五十一节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/6. 第六节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/3.办理刑事案件能力之程序法/README.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/3. 第三节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/2. 第二节.md",
     "docs/notes/ncsec/2.申论/素材整理/1.积累1.md",
-    "docs/preview/实习总结.md",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250714142334284.png",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250714142321903.png",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250714142244957.png",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250714142234790.png",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250714142150208.png",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250714141628000.png",
-    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/2.五月/file-20250710155713199.png",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/13. 第十二节/file-20250710144213233.png",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/13. 第十二节/file-20250710143718554.png",
-    "docs/notes/ncsec/1.公专/若冰上课笔记/assets/13. 第十二节",
-    "docs.zip",
-    "docs/preview/往年部分赛题复习巩固.pdf",
-    "docs/notes/paper/assets/基于GRU模型的诈骗短信文本特征提取与分类方法",
-    "docs/notes/paper/assets"
+    "docs/notes/ncsec/1.公专/若冰上课笔记/README.md",
+    "ncsec/dd5k71a5 1.md",
+    "docs/notes/ncsec/1.公专/README.md",
+    "ncsec/dd5k71a5.md",
+    "ncsec",
+    "docs/notes/ncsec/2.申论/素材整理/2.积累2.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1. 第一节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/办理行政案件能力之程序法/README.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/3. 第三节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/2.办理行政案件能力之实体法",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/新建文件夹",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/22. 第二十一节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/21. 第二十节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/20. 第十九节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/19. 第十八节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/18. 第十七节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/17. 第十六节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/16. 第十五节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/15. 第十四节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/14. 第十三节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法/13. 第十二节.md",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/1.办理行政案件能力之程序法",
+    "docs/notes/ncsec/1.公专/若冰上课笔记/3.办理刑事案件能力之程序法",
+    "docs/notes/ncsec/3.行测/数量关系",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/3.六月/file-20250722153018409.png",
+    "pdf",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110716368.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110519601.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110512260.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110500143.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110451289.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110415157.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110303879.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110231409.png",
+    "docs/notes/ncsec/2.申论/刷题/打卡内容/assets/4.七月/file-20250720110223062.png",
+    "docs/notes/ncsec/3.行测/资料分析",
+    "docs/notes/ncsec/3.行测/言语理解",
+    "docs/notes/ncsec/3.行测/assets/README"
   ]
 }

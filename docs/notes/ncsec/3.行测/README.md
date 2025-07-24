@@ -7,6 +7,8 @@ icon: fluent-color:data-area-32
 
 # 行测笔记
 
+![](assets/README/file-20250717115651309.png)
+
 ## 一、考试结构与模块简介
 
 行测主要包括以下模块：
