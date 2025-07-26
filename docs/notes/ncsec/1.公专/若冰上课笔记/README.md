@@ -56,6 +56,9 @@ icon: gg:menu-round
 		- [任务与基本原则](/ncsec/ko9xcbjb/)
 	- 第二部分 立案撤案
 		- [第二十四节 刑事案件入口出口：立案撤案](/ncsec/9zp3q3tb/)
+	- 第三部分 侦查
+		- [第二十五节-第二十六节 刑事案件管辖](/ncsec/vewh2ony/)
+		- [第二十六节 刑事侦查回避](/ncsec/sh0aqyad/)
   > 如需查阅具体课程内容，请点击相应节次链接。
 
 ::: timeline horizontal
