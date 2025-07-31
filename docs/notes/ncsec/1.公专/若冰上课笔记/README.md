@@ -59,6 +59,10 @@ icon: gg:menu-round
 	- 第三部分 侦查
 		- [第二十五节-第二十六节 刑事案件管辖](/ncsec/vewh2ony/)
 		- [第二十六节 刑事侦查回避](/ncsec/sh0aqyad/)
+		- [第二十七节上 侦查的一般规定](/ncsec/3tgmbizz/)
+		- [第二十七节下 十大侦查手段之讯问与询问](/ncsec/6tyfexwd/)
+		- [第二十八节 十大侦查手段之勘验、检查和搜查](/ncsec/odve2wtn/)
+		- [第二十九节 十大侦查手段之查封、扣押](/ncsec/3qukg9w5/)
   > 如需查阅具体课程内容，请点击相应节次链接。
 
 ::: timeline horizontal
