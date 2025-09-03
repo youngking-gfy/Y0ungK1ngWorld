@@ -16,6 +16,14 @@ icon: streamline-color:chat-bubble-square-write
 
 愿你在此，既能汲取理论之精华，也能体悟写作之真谛，==笔下有光，心中有梦=={.important}。
 
+
+此模块包括
+- [知识模块梳理](/ncsec/jd9n86fk/)
+- [刷题回顾](/ncsec/g9a2rk98/)
+- [素材整理](/ncsec/x4y90geb/)
+
+
+
 本文借鉴于saduck
 ### **一、试卷模板**
 

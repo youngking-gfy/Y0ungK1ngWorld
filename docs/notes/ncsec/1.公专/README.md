@@ -12,3 +12,7 @@ icon: twemoji:brain
 ---
 
 这里记载公安联考公专资料内容
+
+- [若冰基础课](/ncsec/kojao43h/)
+- [若冰带背课](/ncsec/csq1x9zm/)
+

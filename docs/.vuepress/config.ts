@@ -119,13 +119,13 @@ export default defineUserConfig({
     //     rust: true,       // ::: rust-repl
     //     kotlin: true,     // ::: kotlin-repl
     //   },
-    //   math: {             // 启用数学公式
-    //     type: 'katex',
-    //   },
+      math: {             // 启用数学公式
+        type: 'katex',
+      },
 	  collapse: true, 
     chartjs: true,      // 启用 chart.js
     echarts: true,      // 启用 ECharts
-    //   mermaid: true,      // 启用 mermaid
+    mermaid: true,      // 启用 mermaid
     flowchart: true,    // 启用 flowchart
     markmap: true,    // 启用 markmap
     //   image: {

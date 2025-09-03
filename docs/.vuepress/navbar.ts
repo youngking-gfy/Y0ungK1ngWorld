@@ -31,6 +31,10 @@ export const navbar = defineNavbarConfig([
     text: '行测', link: '/ncsec/evqrjpxi/'
   },
   {
+    icon: 'mdi:history',
+    text: '前车之鉴', link: '/ncsec/3nqfrefd/'
+  },
+  {
     icon: 'fluent-color:notebook-16',
     text: '笔记',
     items: [

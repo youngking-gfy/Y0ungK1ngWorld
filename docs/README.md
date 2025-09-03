@@ -17,6 +17,9 @@ config:
           text: 公安联考
           link: /notes/ncsec/
         - theme: alt
+          text: 菜单
+          link: /menu/
+        - theme: alt
           text: 取证
           link: /notes/Forensics/
         - theme: alt

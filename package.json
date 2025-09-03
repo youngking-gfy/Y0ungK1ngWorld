@@ -29,6 +29,7 @@
     "flowchart.ts": "^3.0.1",
     "markmap-lib": "^0.18.12",
     "markmap-toolbar": "^0.18.10",
-    "markmap-view": "^0.18.12"
+    "markmap-view": "^0.18.12",
+    "mermaid": "^11.9.0"
   }
 }
