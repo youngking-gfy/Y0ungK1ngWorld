@@ -64,7 +64,8 @@ icon: gg:menu-round
 		- [第二十八节 十大侦查手段之勘验、检查和搜查](/ncsec/odve2wtn/)
 		- [第二十九节 十大侦查手段之查封、扣押](/ncsec/3qukg9w5/)
 		- [第三十节 十大侦查手段之辨认、技侦、通缉](/ncsec/wntv1sjq/)
-		- [第三十一节 五大强制措施之拘传、取保候审](/ncsec/qbfsswup/)
+		- [第三十一节 五大强制措施之拘传](/ncsec/qbfsswup/)
+		- [第三十二节 五大强制措施之取保候审](/ncsec/8gcsevr2/)
   > 如需查阅具体课程内容，请点击相应节次链接。
 
 ::: timeline horizontal

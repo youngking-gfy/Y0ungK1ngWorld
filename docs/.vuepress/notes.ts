@@ -47,6 +47,7 @@ const ncsec= defineNoteConfig({
   dir: 'ncsec', 
   link: '/ncsec', // 访问路径
   sidebar: 'auto', // 自动生成侧边栏
+  collapsed: true,
 })
 
 export const notes = defineNotesConfig({

@@ -8,77 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ce65096588cd57b",
+            "id": "4170871636d217c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/1.逻辑判断.md",
+                "file": "docs/notes/menu/待办事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.逻辑判断"
+              "title": "待办事项"
             }
           },
           {
-            "id": "2d7dd370acc7c870",
+            "id": "82efad5230acb733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/ncsec/3.行测/4.言语理解/1.基础/标题添加题.md",
+                "file": "docs/notes/ncsec/3.行测/7.刷题/1.模考/5.2025.9.27粉笔模考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "标题添加题"
+              "title": "5.2025.9.27粉笔模考"
             }
           },
           {
-            "id": "045ca4c265501ef1",
+            "id": "6c6eaba8670b9a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/ncsec/3.行测/4.言语理解/2.积累/1.言语理解-逻辑填空-易混成语辨析.md",
+                "file": "docs/notes/ncsec/3.行测/0.知觉速度/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.言语理解-逻辑填空-易混成语辨析"
+              "title": "README"
             }
           },
           {
-            "id": "1581c6b37abee3b4",
+            "id": "0a39ceba1e7560b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/ncsec/1.公专/4.执法资格/0.题库/7.公安机关办理刑事案件程序规定.md",
+                "file": "docs/notes/ncsec/2.申论/2.刷题/2.套卷真题集/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.公安机关办理刑事案件程序规定"
+              "title": "README"
             }
           },
           {
-            "id": "69a2b60700369195",
+            "id": "3d5e5f7c4130ed13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/ncsec/3.行测/1.资料分析/1.志存高远资料笔记/12.倍数与比例.md",
+                "file": "docs/notes/ncsec/3.行测/2.判断推理/3.超格诚意判断/6.总体复盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.倍数与比例"
+              "title": "6.总体复盘"
             }
           },
           {
-            "id": "8abf34b9231b3d33",
+            "id": "2e19eeec4e521c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +91,7 @@
               "title": "待办事项"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "保护性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 415.5
   },
   "right": {
     "id": "470af1c36a01937f",
@@ -213,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/ncsec/3.行测/4.言语理解/1.基础/标题添加题.md",
+                "file": "docs/notes/menu/待办事项.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "标题添加题 的大纲"
+              "title": "待办事项 的大纲"
             }
           }
         ],
@@ -227,66 +226,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f30f28bc0c173593",
+  "active": "4170871636d217c9",
   "lastOpenFiles": [
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/词语理解.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/主旨题.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/选词填空.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/片段阅读.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/词语辨析.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/句子填空.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/推断下文题.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/句子排序.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/错题集.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/标题添加题.md",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/2.图形推理.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础/成语积累.md",
+    "docs/notes/ncsec/3.行测/0.知觉速度/README.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/10. 第九节 两大类行政强制措施.md",
+    "docs/notes/menu/待办事项.md",
+    "docs/notes/ncsec/2.申论/3.素材整理/5.积累5.md",
+    "docs/notes/ncsec/2.申论/2.刷题/2.套卷真题集/README.md",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/5.2025.9.27粉笔模考.md",
+    "docs/notes/ncsec/3.行测/2.判断推理/3.超格诚意判断/6.总体复盘.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/assets/10. 第九节 两大类行政强制措施",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/9. 第八节下 五大调查取证之鉴定、辨认.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/8. 第八节上 五大调查取证之勘验、检查.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/7. 第七节 五大调查手段之询问.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/6. 第六节 五大调查手段之行政传唤.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/5. 第五节 调查取证的一般规定.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/未命名.md",
+    "docs/notes/ncsec/3.行测/1.资料分析/3.技巧.md",
     "docs/notes/ncsec/3.行测/4.言语理解/2.积累/1.言语理解-逻辑填空-易混成语辨析.md",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/3.类比推理.md",
-    "docs/notes/ncsec/3.行测/2.判断推理/README.md",
-    "docs/notes/ncsec/3.行测/4.言语理解/1.基础",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/4.定义判断.md",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/assets/1.逻辑判断",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/assets",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课/1.逻辑判断.md",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/6. 大作文开头结尾.md",
-    "docs/notes/ncsec/3.行测/2.判断推理/1.基础课",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/assets/5. 大作文",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/5. 大作文.md",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/4. 公文写作题作答.md",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/3. 综合分析题作答.md",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/2. 对策题作答.md",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/README.md",
-    "docs/notes/ncsec/2.申论/1.梳理/2.申论强化/README.md",
-    "docs/notes/ncsec/2.申论/1.梳理/README.md",
-    "docs/notes/ncsec/2.申论/3.素材整理/1.积累1.md",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/assets/6. 大作文",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础/assets",
-    "docs/notes/ncsec/2.申论/1.梳理/1.申论基础",
-    "docs/notes/ncsec/1.公专/4.执法资格/0.题库",
-    "docs/notes/ncsec/1.公专/4.执法资格/assets/0. 题库",
-    "docs/notes/ncsec/1.公专/4.执法资格/assets/0. 题库/file-20250830204707416.png",
-    "docs/notes/ncsec/2.申论/2.刷题/2.套卷真题集/assets/5.套卷5/file-20250830163318515.png",
-    "docs/notes/ncsec/2.申论/2.刷题/2.套卷真题集/assets/5.套卷5/file-20250830162832528.png",
-    "docs/notes/ncsec/2.申论/2.刷题/2.套卷真题集/assets/5.套卷5/file-20250830161909893.png",
-    "docs/notes/ncsec/2.申论/2.刷题/2.套卷真题集/assets/5.套卷5/file-20250830160246021.png",
-    "docs/notes/ncsec/3.行测/1.资料分析/1.志存高远资料笔记/assets/9.专项练习一/file-20250829102623239.png",
-    "docs/notes/ncsec/3.行测/1.资料分析/1.志存高远资料笔记/assets/9.专项练习一/file-20250829101228967.png",
-    "docs/notes/ncsec/3.行测/1.资料分析/1.志存高远资料笔记/assets/9.专项练习一/file-20250829100752458.png",
-    "docs/notes/ncsec/3.行测/1.资料分析/1.志存高远资料笔记/assets/9.专项练习一/file-20250829094806916.png",
-    "docs/notes/ncsec/3.行测/1.资料分析/1.志存高远资料笔记/assets/9.专项练习一/file-20250829094239787.png"
+    "pdf/超格/考点梳理ppt.pdf.md",
+    "pdf/超格",
+    "pdf",
+    "docs/notes/ncsec/2.申论/2.刷题/README.md",
+    "docs/notes/ncsec/3.行测/2.判断推理/2.超格61-图推/2.夸夸刷/汉字结构.md",
+    "docs/notes/ncsec/3.行测/2.判断推理/2.超格61-图推/2.夸夸刷/assets/汉字结构/file-20250928112629707.png",
+    "docs/notes/ncsec/3.行测/2.判断推理/2.超格61-图推/2.夸夸刷/assets/汉字结构",
+    "docs/notes/ncsec/3.行测/2.判断推理/2.超格61-图推/2.夸夸刷/assets",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/6.2025.9.24中芽模考.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/assets/10. 第九节 两大类行政强制措施/file-20250927204900090.png",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/assets/10. 第九节 两大类行政强制措施/file-20250927204842517.png",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/assets/10. 第九节",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/6.2025.9.24中芽模考",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/6.2025.9.24中芽模考/file-20250927192457494.png",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/6.中芽2025.9.24模考",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/5.2025.9.27粉笔模考/file-20250927162632818.png",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/4.2025.9.14粉笔模考.md",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/4.2025.9.14粉笔模考/file-20250927162618062.png",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/4.2025.9.14粉笔模考",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/5.2025.9.27粉笔模考/file-20250927162616032.png",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/assets/5.2025.9.27粉笔模考",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/3.2025.8.31粉笔模考.md",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/2.2025.8.24粉笔模考.md",
+    "docs/notes/ncsec/3.行测/7.刷题/1.模考/README.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/4. 第四节 调查取证之回避.md",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/23. 第二十一节.md",
+    "docs/notes/ncsec/3.行测/2.判断推理/3.超格诚意判断/assets/5.类比推理/file-20250925143205179.png",
+    "docs/notes/ncsec/1.公专/1.若冰上课笔记/1.办理行政案件能力之程序法/assets/9. 第八节下 五大调查取证之鉴定、辨认/file-20250924221341600.png",
+    "docs/notes/ncsec/3.行测/2.判断推理/3.超格诚意判断/assets/5.类比推理/file-20250924145353052.png"
   ]
 }
