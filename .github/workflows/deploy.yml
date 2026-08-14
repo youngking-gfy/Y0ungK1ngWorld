@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
+      - run: npm install --legacy-peer-deps
       - run: npm run docs:build
         env:
           NODE_OPTIONS: --max-old-space-size=6144
