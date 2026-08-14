@@ -24,6 +24,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm install --legacy-peer-deps
+      - run: mkdir -p node_modules/vuepress-theme-plume/node_modules/@mathjax && cp -r node_modules/@mathjax/src node_modules/vuepress-theme-plume/node_modules/@mathjax/src
       - run: npm run docs:build
         env:
           NODE_OPTIONS: --max-old-space-size=6144
