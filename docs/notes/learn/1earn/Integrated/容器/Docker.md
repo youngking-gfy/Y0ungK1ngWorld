@@ -111,7 +111,7 @@ CGroups 提供了资源限制（Resource Limitation）、优先级分配（Prior
 
 ## 安全
 
-安全部分内容来自 <sup>[[Docker 容器安全性分析](https://www.freebuf.com/articles/system/221319.html)]</sup><sup>
+安全部分内容来自 <sup>[[Docker 容器安全性分析](https://www.freebuf.com/articles/system/221319.html)]</sup>
 
 **相关文章**
 
@@ -150,7 +150,8 @@ Linux 内核能力表示进程所拥有的系统调用权限，决定了程序�
 
 容器的默认能力包括 CHOWN、DAC_OVERRIDE、FSETID、SETGID、SETUID、SETFCAP、NET_RAW、MKNOD、SYS_REBOOT、SYS_CHROOT、KILL、NET_BIND_SERVICE、AUDIT_WRITE 等等，具体功能如表所示。
 
-| 容器默认能力 | 作用
+| 容器默认能力 | 作用 |
+| --- | --- |
 | CHOWN | 允许任意更改文件 UID 以及 GID |
 | DAC_OVERRIDE | 允许忽略文件的读、写、执行访问权限检查 |
 | FSETID | 允许文件修改后保留 setuid/setgid 标志位 |

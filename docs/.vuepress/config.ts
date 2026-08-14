@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 
 export default defineUserConfig({
-  base: '/',
+  base: '/Y0ungK1ngWorld/',
   lang: 'zh-CN',
   title: 'Y0ungK1ng W0rld',
   description: '挟泰山以超北海，不完成不倒下；不是我在登山，是山在我脚下',
@@ -14,7 +14,22 @@ export default defineUserConfig({
     ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
   ],
 
-  bundler: viteBundler(),
+  bundler: viteBundler({
+    extendsBundlerOptions: (config, app) => {
+      config.ssr = config.ssr ?? {}
+      config.ssr.noExternal = [
+        ...(config.ssr.noExternal ?? []),
+        'mermaid',
+        'flowchart.ts',
+        'markmap-view',
+        'markmap-lib',
+        'chart.js',
+        'echarts',
+        'vue-echarts',
+        'mathjax',
+      ]
+    },
+  }),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({

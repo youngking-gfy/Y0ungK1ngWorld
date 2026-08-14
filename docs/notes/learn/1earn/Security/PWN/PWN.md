@@ -118,7 +118,7 @@ ESI/EDI
 - si：单步步入，汇编层面
 - bt：栈回溯
 - x：查看内存
-- x/nfu <addr>
+- x/nfu `<addr>`
 
   - n,f,u 都是可选参数，指要显示的内存的格式
   - n 代表个数，要显示多少单位的内存
@@ -133,14 +133,14 @@ ESI/EDI
 
 - disass：反汇编
 
-  - disass <func> 反汇编指定函数
-  - disass <addr> 反汇编指定地址
-  - disass <addr_begin> <addr_end> 反汇编指定地址范围
+  - disass `<func>` 反汇编指定函数
+  - disass `<addr>` 反汇编指定地址
+  - disass `<addr_begin>` `<addr_end>` 反汇编指定地址范围
 
 - fin：结束此函数，返回上一层
 - p：打印一些值
   - p $esp 打印寄存器的值
-  - p <addr> 打印地址里面的值
+  - p `<addr>` 打印地址里面的值
 - attach：附加进程
 
 ### pwntools 的使用

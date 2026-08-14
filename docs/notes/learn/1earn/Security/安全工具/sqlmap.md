@@ -161,7 +161,7 @@ python sqlmap.py -u http://xx.xxx.xx.xx?id=1 --tamper xxx.py
 
 ### 0eunion.py
 
-> Replaces instances of <int> UNION with <int>e0UNION
+> Replaces instances of `<int>` UNION with `<int>`e0UNION
 
 使用 `e0UNION` 替换 `UNION`
 
@@ -432,7 +432,7 @@ Tested against:
 
 ### dunion.py
 
-> Replaces instances of <int> UNION with <int>DUNION
+> Replaces instances of `<int>` UNION with `<int>`DUNION
 
 将 `UNION` 换成 `DUNION`
 
@@ -527,9 +527,9 @@ Tested against:
 
 ### hex2char.py
 
-> Replaces each (MySQL) 0x<hex> encoded string with equivalent CONCAT(CHAR(),...) counterpart
+> Replaces each (MySQL) 0x`<hex>` encoded string with equivalent CONCAT(CHAR(),...) counterpart
 
-用对应的 CONCAT(CHAR(),...) 替换每个 (MySQL)0x<hex> 编码的字符串。
+用对应的 CONCAT(CHAR(),...) 替换每个 (MySQL)0x`<hex>` 编码的字符串。
 
 Requirement:
 

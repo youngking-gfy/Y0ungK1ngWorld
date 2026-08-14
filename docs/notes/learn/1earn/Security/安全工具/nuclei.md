@@ -557,7 +557,7 @@ requests:
 
 #### skip-variables-check
 
-what if my payload contains {{payload here}} and that is not cli env var. Can i escape it or somehow disable nuclei vars detection ?
+what if my payload contains `{{payload here}}` and that is not cli env var. Can i escape it or somehow disable nuclei vars detection ?
 
 当你的请求内容里包含 `{{` 时,会被 nuclei 解析为变量,加这个就是告诉 nuclei 不要解析.
 

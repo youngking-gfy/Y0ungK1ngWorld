@@ -4484,7 +4484,7 @@ redis-benchmark -n 100000 -q script load "redis.call('set','foo','bar')"
 #### Memcached
 
 <p align="center">
-    <img src="../../../assets/img/logo/memcached.svg" width=10%">
+    <img src="../../../assets/img/logo/memcached.svg" width="10%">
 </p>
 
 **官网**
@@ -6295,7 +6295,7 @@ kubectl taint nodes foo dedicated=special-user:NoSchedule
 
 <p align="center">
     <img src="../../../assets/img/logo/ZooKeeper.png" width="35%">
-    <p align="center">这个Logo是什么鬼啊🤣🤣🤣,笑死我了
+    这个Logo是什么鬼啊🤣🤣🤣,笑死我了
 </p>
 
 **官网**

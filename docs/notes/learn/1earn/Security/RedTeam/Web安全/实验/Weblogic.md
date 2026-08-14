@@ -60,7 +60,7 @@ SerializedSystemIni.dat 是一个二进制文件，所以一定要用 burpsuite 
 
 ![](../../../../assets/img/Security/RedTeam/Web安全/BS-Exploits/4.png)
 
-config.xml 是 base_domain 的全局配置文件, 找到其中的 <node-manager-password-encrypted> 的值，即为加密后的管理员密码
+config.xml 是 base_domain 的全局配置文件, 找到其中的 `<node-manager-password-encrypted>` 的值，即为加密后的管理员密码
 
 ![](../../../../assets/img/Security/RedTeam/Web安全/BS-Exploits/5.png)
 
