@@ -32,5 +32,8 @@
     "markmap-toolbar": "^0.18.10",
     "markmap-view": "^0.18.12",
     "mermaid": "^11.9.0"
+  },
+  "overrides": {
+    "@mathjax/src": "$@mathjax/src"
   }
 }
