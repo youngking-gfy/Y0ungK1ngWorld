@@ -14,22 +14,7 @@ export default defineUserConfig({
     ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
   ],
 
-  bundler: viteBundler({
-    extendsBundlerOptions: (config, app) => {
-      config.ssr = config.ssr ?? {}
-      config.ssr.noExternal = [
-        ...(config.ssr.noExternal ?? []),
-        'mermaid',
-        'flowchart.ts',
-        'markmap-view',
-        'markmap-lib',
-        'chart.js',
-        'echarts',
-        'vue-echarts',
-        'mathjax',
-      ]
-    },
-  }),
+  bundler: viteBundler(),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({
