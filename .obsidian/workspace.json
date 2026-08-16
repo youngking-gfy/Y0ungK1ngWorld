@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "98dca3800713307d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fcce494a805b438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298154336302b77e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e891e5fef4dcd1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d17ee9024ceebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7422ea21df2813ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2884c3d3ab54383f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8c40fa24af00aaee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66853a3942f46734",
+    "type": "split",
+    "children": [
+      {
+        "id": "d06e3790d5bfbad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72cd4e922bc2b564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8632ba403cb07216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6929e461759e26bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "96659fe6315a60fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "012439047bb7a8f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/notes/preview/实习总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "7422ea21df2813ba",
+  "lastOpenFiles": [
+    "docs/node_modules/postprocessing/README.md",
+    "docs/node_modules/postprocessing/LICENSE.md",
+    "docs/node_modules/postprocessing/package.json",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUUtils.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUTimestampQueryPool.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUTextureUtils.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUTexturePassUtils.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUPipelineUtils.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUConstants.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUCapabilities.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUBindingUtils.js",
+    "docs/node_modules/three/src/renderers/webgpu/utils/WebGPUAttributeUtils.js",
+    "docs/node_modules/three/src/nodes/materialx/DISCLAIMER.md",
+    "docs/node_modules/speech-rule-engine/bin/README.md",
+    "docs/node_modules/jsesc/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-include/node_modules/@mdit/plugin-include/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-include/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/rimraf/README.md",
+    "docs/node_modules/speech-rule-engine/node_modules/commander/Readme.md",
+    "docs/node_modules/@mdit/plugin-attrs/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/@mdit/plugin-footnote/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/@mdit/plugin-mark/node_modules/@mdit/plugin-inline-rule/README.md",
+    "docs/node_modules/@mdit/plugin-mark/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/@mdit/plugin-tasklist/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/@rolldown/binding-win32-x64-msvc/README.md",
+    "docs/node_modules/@mdit/plugin-sub/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-image/node_modules/@mdit/plugin-img-lazyload/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-image/node_modules/@mdit/plugin-img-size/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-image/node_modules/@mdit/plugin-figure/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-image/node_modules/@mdit/plugin-img-mark/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-image/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-math/node_modules/@mdit/plugin-tex/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-math/node_modules/@mdit/plugin-katex-slim/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-math/node_modules/@mdit/plugin-mathjax-slim/README.md",
+    "docs/node_modules/@vuepress/plugin-markdown-math/node_modules/@mdit/helper/README.md",
+    "docs/node_modules/lightningcss-win32-x64-msvc/README.md",
+    "docs/article/调研报告/assets/调研报告/file-20250716192052473.png",
+    "docs/article/调研报告/assets/调研报告/file-20250716192146014.png",
+    "docs/article/调研报告/assets/调研报告/file-20250716192030361.png",
+    "docs/article/调研报告/assets/调研报告/file-20250716192109299.png",
+    "docs/article/调研报告/assets/调研报告/file-20250716192123795.png",
+    "docs/article/assets/数据挖掘考试重点/file-20250709163246266.png",
+    "docs/article/assets/数据挖掘考试重点/file-20250616180557817.png",
+    "docs/article/assets/数据挖掘考试重点/file-20250616150614476.png",
+    "docs/article/assets/数据挖掘考试重点/file-20250616150521627.png",
+    "docs/article/assets/数据挖掘考试重点/file-20250616144541022.png"
+  ]
+}
