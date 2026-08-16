@@ -2,3 +2,12 @@ node_modules
 .temp
 .cache
 dist
+
+# 排除 menu 目录（不上传）
+docs/notes/menu/
+
+# 排除 article 目录下的所有文件和子目录
+docs/article/*
+docs/article/*/
+# 保留指定文章
+!docs/article/电源计划卓越——榨干电脑性能.md
