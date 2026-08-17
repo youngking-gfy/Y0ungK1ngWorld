@@ -28,16 +28,15 @@ jobs:
         with:
           node-version: 24
           cache: npm
+          cache-dependency-path: docs/package-lock.json
 
-      - name: Install root dependencies
-        run: npm install
-
-      - name: Install docs dependencies
+      - name: Install dependencies
         run: npm install
         working-directory: docs
 
       - name: Build VuePress
-        run: npm run docs:build
+        run: npm run build
+        working-directory: docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
