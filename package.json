@@ -16,7 +16,7 @@
     "typescript": "^5.9.3",
     "vue": "^3.5.40",
     "vuepress": "^2.0.0-rc.30",
-    "vuepress-theme-plume": "^1.0.0-rc.204"
+    "vuepress-theme-plume": "^1.0.0-rc.205"
   },
   "dependencies": {
     "chart.js": "^4.5.1",
@@ -25,6 +25,8 @@
     "markmap-lib": "^0.18.12",
     "markmap-toolbar": "^0.18.12",
     "markmap-view": "^0.18.12",
-    "mermaid": "^11.16.1"
+    "mermaid": "^11.16.1",
+    "postprocessing": "^6.39.4",
+    "three": "^0.185.1"
   }
 }
