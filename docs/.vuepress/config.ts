@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 
 export default defineUserConfig({
-  base: '/',
+  base: '/Y0ungK1ngWorld/',
   lang: 'zh-CN',
   title: 'Y0ungK1ng W0rld',
   description: '挟泰山以超北海，不完成不倒下；不是我在登山，是山在我脚下',
